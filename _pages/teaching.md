@@ -2,11 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for courses I taught at UCLA and UCSB
 nav: true
 nav_order: 6
 ---
+Teaching Assistant
+March 2025 - June 2025
+Research Immersion Laboratory in Virology  | MIMG Department, UCLA
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching Assistant
+January 2025 - March 2025
+Research Immersion Laboratory in Microbiology  | MIMG Department, UCLA
 
-Organize your courses by years, topics, or universities, however you like!
+Teaching Assistant
+September 2024 - December 2024
+Research Immersion Laboratory in Virology  | MIMG Department, UCLA
+
+Learning Assistant	March 2022 - June 2022
+Developmental Neurobiology | MCDB Department, UCSB
+ 
+Learning Assistant	January 2022 - March 2022
+Molecular Genetics II: Eukaryotes | MCDB Department, UCSB
+
