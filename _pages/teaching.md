@@ -7,9 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-<p>Teaching Assistant</p>
-<p>March 2025 - June 2025</p>
-Research Immersion Laboratory in Virology  | MIMG Department, UCLA
+<p>Teaching Assistant                 March 2025 - June 2025</p>
+<p>Research Immersion Laboratory in Virology | MIMG Department, UCLA</p>
 
 Teaching Assistant
 January 2025 - March 2025
