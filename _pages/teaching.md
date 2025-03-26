@@ -6,8 +6,9 @@ description: Materials for courses I taught at UCLA and UCSB
 nav: true
 nav_order: 6
 ---
-Teaching Assistant
-March 2025 - June 2025
+
+<p>Teaching Assistant</p>
+<p>March 2025 - June 2025</p>
 Research Immersion Laboratory in Virology  | MIMG Department, UCLA
 
 Teaching Assistant
