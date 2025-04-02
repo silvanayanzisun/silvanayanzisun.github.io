@@ -33,7 +33,7 @@ This stage focused on environment setup and version control. I used the Linux sh
 
 **Goal**: Develop a scalable ingestion pipeline for MIMIC-IV datasets, focusing on `labevents` and `chartevents`.
 
-**Tools used**: R (`readr`, `dplyr`, `arrow`), DuckDB, dbplyr, Linux shell
+**Tools used**: R (`readr`, `dplyr`, `arrow`), DuckDB, Linux shell
 
 I used R to load and inspect raw clinical tables, and DuckDB with dbplyr to run SQL queries and convert large CSVs to compressed **Parquet** files. This allowed efficient, in-memory querying without needing a full database setup.
 
