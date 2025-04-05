@@ -8,4 +8,5 @@ nav_order: 2
 ---
 
 - Li Y, Torok J, Ding J, Wang N, Lau C, Kulkarni S, Anand C, Lo C, Lu B, **Sun Y**, Yang X, Raj A, Peng C.  
-  *Pathological α-synuclein spreading is predominantly determined by key subnetworks of connectome and risk genes associated with pathology spread.* **(In Review)**
+  *Key Connectomes and Synaptic Compartment-Specific Risk Genes Drive Pathological α-Synuclein Spreading*
+       DOI: 10.1002/advs.202413052
