@@ -46,10 +46,12 @@ I used R to load and inspect raw clinical tables, and DuckDB with dbplyr to run 
 **Goal**: Create meaningful features from raw data for downstream modeling and interpretability.
 
 **Methods**:
+
 - Extracted features such as summary statistics of vital signs and lab measurements over time windows.
 - Visualized patient subgroups using R’s `ggplot2` and `plotly`.
 
 **Skills gained**: Clinical feature engineering, longitudinal data summarization, and insightful exploratory analysis—critical for model development, cohort definition, and hypothesis-driven RWE studies.
+
 <p align="center">
   <img src="/assets/img/icu-vitals_ggplot.png" alt="ICU Vitals Visualization" width="600">
 </p>
@@ -63,6 +65,7 @@ I used R to load and inspect raw clinical tables, and DuckDB with dbplyr to run 
 **Tools used**: Google BigQuery, SQL, R, RShiny
 
 This stage involved transitioning to a cloud-native architecture using Google BigQuery for efficient data transformation and feature curation. I designed modular SQL queries to:
+
 - Join and filter MIMIC-IV tables (`admissions`, `icu_stays`, `chartevents`, `labevents`)
 - Extract first-hour ICU vitals and most recent pre-ICU lab results
 - Build a cleaned cohort ready for machine learning in downstream stages
@@ -83,6 +86,7 @@ In parallel, I developed an interactive **RShiny dashboard** that enables non-te
 
 **Approach**:
 Using the cohort prepared in Stage 4, I developed multiple classification models to predict the binary target variable `los_long`. Models included:
+
 - Logistic Regression with Elastic Net regularization
 - Random Forest
 - XGBoost
@@ -90,6 +94,7 @@ Using the cohort prepared in Stage 4, I developed multiple classification models
 - A stacked ensemble model integrating predictions from all of the above
 
 **Features used**:
+
 - Demographics (gender, age, race, marital status)
 - ICU admission information (first care unit)
 - First vital signs during ICU stay

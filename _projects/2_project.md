@@ -10,7 +10,7 @@ giscus_comments: false
 
 ## Research Overview
 
-This research, presented at the UCSB EEMB Undergraduate Research Symposium (April 2023), investigates whether a morphological trait—**style length**—affects **pollination success** and **reproductive fitness** in *Nemophila menziesii*, a native California wildflower. Below is a visual walkthrough of the project from hypothesis to analysis:
+This research, presented at the UCSB EEMB Undergraduate Research Symposium (April 2023), investigates whether a morphological trait—**style length**—affects **pollination success** and **reproductive fitness** in _Nemophila menziesii_, a native California wildflower. Below is a visual walkthrough of the project from hypothesis to analysis:
 
 <p align="center">
   <img src="/assets/img/URS%20Nemo%20Talk-Silvana-images-1.jpg" alt="Slide 1" width="700">
@@ -46,7 +46,7 @@ This research, presented at the UCSB EEMB Undergraduate Research Symposium (Apri
   <img src="/assets/img/URS%20Nemo%20Talk-Silvana-images-11.jpg" alt="Slide 11" width="700">
 </p>
 
---- 
+---
 
 ## Significance
 
@@ -54,7 +54,7 @@ Understanding how plant traits influence reproductive success is central to the 
 
 These findings suggest that environmental stressors may decouple pollination efficiency from reproductive output, raising important questions about the evolution of floral traits under climate variability. The work contributes to broader efforts to understand plant-pollinator interactions, sexual selection in plants, and how ecological pressures shape reproductive strategies.
 
---- 
+---
 
 <p align="center">
   <img src="/assets/img/nemo_talk.JPG" alt="Me after the talk" width="700">

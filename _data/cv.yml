@@ -56,14 +56,12 @@
       description:
         -
 
-
 - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2024 Fall
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 
 - title: Academic Interests
   type: nested_list

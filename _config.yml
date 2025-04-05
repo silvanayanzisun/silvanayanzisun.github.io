@@ -101,7 +101,6 @@ related_blog_posts:
   enabled: false
   max_related: 5
 
-
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
