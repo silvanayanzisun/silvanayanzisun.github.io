@@ -1,1 +1,92 @@
-{"basics":{"name":"Yanzi Sun","label":"Bioinformatician/Biostatistician","image":"","email":"yanzisun@g.ucla.edu","url":"https://www.linkedin.com/in/yanzi-sun/","summary":"A data scientist-in-training with a background in bioinformatics and machine learning, dedicated to advancing biomedical research through computational innovation.","location":{"address":"UCLA","postalCode":"CA 90024","city":"Los Angeles","countryCode":"US","region":"California"},"profiles":[{"network":"Github","username":"silvanayanzisun","url":"https://github.com/silvanayanzisun"}]},"work":[{"name":"Roel Ophoff Lab, UCLA Psychiatry and Human Genetics","position":"Bioinformatician","startDate":"2024-10","endDate":"Present","summary":"Project: Meta-analysis of epigenetic aging in bipolar disorder.","highlights":["Performed large-scale bioinformatics analysis of genome-wide DNA methylation profiles from bipolar disorder cohorts, leveraging advanced DNA methylation clocks to dissect associations between epigenetic aging and clinical phenotypes, such as chronological age, sex, illness duration.","Utilized high-performance computing clusters (hoffman2) to execute parallelized preprocessing workflows, including quality control, normalization, and feature extraction of methylation data.","Developed and optimized statistical models in R using packages such as dnaMethyAge, minfi, limma, integrating machine learning techniques including regularized regression (Lasso, Ridge), random forests, and gradient boosting."]},{"name":"Chao Peng Lab, UCLA Neurology","position":"Research Assistant","startDate":"2023-06","endDate":"2024-06","summary":"Project: Uncover XX vs. XY differences in AD and PD pathology using Four Core Genotypes (FCG) mouse model.","highlights":["Design and conduct experiments on tau and mouse α-Syn preformed fibrils (PFFs) preparation.","Stereotactic injection of Amyloid-β and α-syn PFF in 5XFAD mice; mouse husbandry and colony management; in vivo miniscope calcium imaging; spatial memory behavioral testing."]},{"name":"Susan Mazer Lab, UCSB EEMB","position":"Research Assistant","startDate":"2022-06","endDate":"2023-04","summary":"Project: Computational Analysis of Style Length Impact on Pollination Efficacy and Reproductive Fitness in Nemophila menziesii.","highlights":["Investigated the relationship between style length and pollination efficacy, testing its correlation with lifetime fecundity using linear regression, ANOVA, and mixed-effects models in R.","Digitized pollen, seed count, and flower size data; implemented interactive data visualization dashboards in R Shiny.","Developed automated data preprocessing pipelines in R to identify phenotypic patterns from microscopy observations."]},{"name":"Soojin Yi Lab, UCSB EEMB","position":"Research Assistant","startDate":"2022-06","endDate":"2023-04","summary":"Project: Connecting Epigenome to Health in Marine Organisms.","highlights":["Conducted DNA methylation studies on marine organisms to develop DNA methylation clocks.","Processed DNA extracted from mussel and starfish tissues for Reduced Representation Bisulfite Sequencing (RRBS), optimizing bioinformatics pipelines.","Developed Python-based tools for automated shell ring counting and standardized workflows for 3D shell scanning and DNA extraction."]}],"education":[{"institution":"University of California, Los Angeles","location":"Los Angeles, CA","area":"Data Science","studyType":"Master of Science","startDate":"2024-09","endDate":"2026-06","courses":["Introduction to Data Science","Principles of Biostatistics","Machine Learning"]},{"institution":"University of California, Santa Barbara","location":"Goleta, CA","area":"Biological Sciences","studyType":"Bachelor of Science","startDate":"2019-09","endDate":"2022-09"}]}
+{
+  "basics": {
+    "name": "Yanzi Sun",
+    "label": "Bioinformatician/Biostatistician",
+    "image": "",
+    "email": "yanzisun@g.ucla.edu",
+    "url": "https://www.linkedin.com/in/yanzi-sun/",
+    "summary": "A data scientist-in-training with a background in bioinformatics and machine learning, dedicated to advancing biomedical research through computational innovation.",
+    "location": {
+      "address": "UCLA",
+      "postalCode": "CA 90024",
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "silvanayanzisun",
+        "url": "https://github.com/silvanayanzisun"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Roel Ophoff Lab, UCLA Psychiatry and Human Genetics",
+      "position": "Bioinformatician",
+      "startDate": "2024-10",
+      "endDate": "Present",
+      "summary": "Project: Meta-analysis of epigenetic aging in bipolar disorder.",
+      "highlights": [
+        "Performed large-scale bioinformatics analysis of genome-wide DNA methylation profiles from bipolar disorder cohorts, leveraging advanced DNA methylation clocks to dissect associations between epigenetic aging and clinical phenotypes, such as chronological age, sex, illness duration.",
+        "Utilized high-performance computing clusters (hoffman2) to execute parallelized preprocessing workflows, including quality control, normalization, and feature extraction of methylation data.",
+        "Developed and optimized statistical models in R using packages such as dnaMethyAge, minfi, limma, integrating machine learning techniques including regularized regression (Lasso, Ridge), random forests, and gradient boosting."
+      ]
+    },
+    {
+      "name": "Chao Peng Lab, UCLA Neurology",
+      "position": "Research Assistant",
+      "startDate": "2023-06",
+      "endDate": "2024-06",
+      "summary": "Project: Uncover XX vs. XY differences in AD and PD pathology using Four Core Genotypes (FCG) mouse model.",
+      "highlights": [
+        "Design and conduct experiments on tau and mouse α-Syn preformed fibrils (PFFs) preparation.",
+        "Stereotactic injection of Amyloid-β and α-syn PFF in 5XFAD mice; mouse husbandry and colony management; in vivo miniscope calcium imaging; spatial memory behavioral testing."
+      ]
+    },
+    {
+      "name": "Susan Mazer Lab, UCSB EEMB",
+      "position": "Research Assistant",
+      "startDate": "2022-06",
+      "endDate": "2023-04",
+      "summary": "Project: Computational Analysis of Style Length Impact on Pollination Efficacy and Reproductive Fitness in Nemophila menziesii.",
+      "highlights": [
+        "Investigated the relationship between style length and pollination efficacy, testing its correlation with lifetime fecundity using linear regression, ANOVA, and mixed-effects models in R.",
+        "Digitized pollen, seed count, and flower size data; implemented interactive data visualization dashboards in R Shiny.",
+        "Developed automated data preprocessing pipelines in R to identify phenotypic patterns from microscopy observations."
+      ]
+    },
+    {
+      "name": "Soojin Yi Lab, UCSB EEMB",
+      "position": "Research Assistant",
+      "startDate": "2022-06",
+      "endDate": "2023-04",
+      "summary": "Project: Connecting Epigenome to Health in Marine Organisms.",
+      "highlights": [
+        "Conducted DNA methylation studies on marine organisms to develop DNA methylation clocks.",
+        "Processed DNA extracted from mussel and starfish tissues for Reduced Representation Bisulfite Sequencing (RRBS), optimizing bioinformatics pipelines.",
+        "Developed Python-based tools for automated shell ring counting and standardized workflows for 3D shell scanning and DNA extraction."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, CA",
+      "area": "Data Science",
+      "studyType": "Master of Science",
+      "startDate": "2024-09",
+      "endDate": "2026-06",
+      "courses": ["Introduction to Data Science", "Principles of Biostatistics", "Machine Learning"]
+    },
+    {
+      "institution": "University of California, Santa Barbara",
+      "location": "Goleta, CA",
+      "area": "Biological Sciences",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-09",
+      "endDate": "2022-09"
+    }
+  ]
+}
