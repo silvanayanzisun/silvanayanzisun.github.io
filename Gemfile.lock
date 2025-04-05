@@ -113,20 +113,17 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-    jekyll (4.4.1)
+    jekyll (4.3.4)
       addressable (~> 2.4)
-      base64 (~> 0.2)
       colorator (~> 1.0)
-      csv (~> 3.0)
       em-websocket (~> 0.5)
       i18n (~> 1.0)
       jekyll-sass-converter (>= 2.0, < 4.0)
       jekyll-watch (~> 2.0)
-      json (~> 2.6)
       kramdown (~> 2.3, >= 2.3.1)
       kramdown-parser-gfm (~> 1.0)
       liquid (~> 4.0)
-      mercenary (~> 0.3, >= 0.3.6)
+      mercenary (>= 0.3.6, < 0.5)
       pathutil (~> 0.9)
       rouge (>= 3.0, < 5.0)
       safe_yaml (~> 1.0)
@@ -283,12 +280,13 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  bundler (~> 2.6)
   classifier-reborn
   css_parser
   faraday-retry
   feedjira
   httparty
-  jekyll
+  jekyll (~> 4.3.2)
   jekyll-archives-v2
   jekyll-email-protect
   jekyll-feed

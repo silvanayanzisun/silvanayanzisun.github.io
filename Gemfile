@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '~> 4.3.2'
+gem 'bundler', '~> 2.6'
 gem 'faraday-retry'
 
 # Core plugins that directly affect site building
