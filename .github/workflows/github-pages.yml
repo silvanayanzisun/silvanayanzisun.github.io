@@ -25,6 +25,7 @@ jobs:
         run: |
           gem install bundler
           bundle install
+          pip install jupyter
 
       - name: Build project
         run: bundle exec jekyll build
