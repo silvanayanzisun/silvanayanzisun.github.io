@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Style Length, Pollination, and Fitness in *Nemophila menziesii*"
+title: "Style Length, Pollination, and Fitness in Nemophila menziesii"
 description: "A field-based ecology and evolution research project exploring plant reproductive traits, presented at the UCSB EEMB Undergraduate Research Symposium."
 category: fun
 importance: 1
