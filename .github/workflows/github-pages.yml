@@ -47,6 +47,11 @@ jobs:
           name: build
           path: ./_site
 
+      - name: Configure Git
+        run: |
+          git config --global user.name 'silvanayanzisun'
+          git config --global user.email 'yanyan1025911978@gmail.com'
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
