@@ -1,4 +1,4 @@
-<file name=0 path=>name: Deploy site
+name: Deploy site
 
 on:
   push:
@@ -101,4 +101,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
-</file>
+
