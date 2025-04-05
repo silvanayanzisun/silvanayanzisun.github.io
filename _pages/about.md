@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Pursuing Master of Data Science in Health; Bioinformatics Research Assistant at Roel Ophoff Lab, UCLA Human Genetics
 
 profile:
   align: right
